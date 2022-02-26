@@ -1,4 +1,4 @@
-# Battleship Game Project
+# Battleship Game Project 🚢 💥
 
 ## What is the project?
 
