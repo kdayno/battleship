@@ -6,7 +6,7 @@ The purpose of the battleship game project is to re-create the classic board gam
 
 ## What is the MVP?
 
-The minimum viable product is the battleship game that renders on the command line and allows a Player to play a game of battleship against a Bot. 
+The minimum viable product is the battleship game that renders on a Jupyter Notebook and allows a Player to play a game of battleship against a Bot. 
 
 ## What are the nice to haves?
 
